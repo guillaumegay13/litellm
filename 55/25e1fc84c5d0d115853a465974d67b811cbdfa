@@ -1,0 +1,36 @@
+litellm/provider_endpoints_support_backup.json
+  s_172fa551176b12::t_063a247c6a934e 1855-1865
+  s_172fa551176b12::t_ed93a6720f0f47 1852-1854
+  s_172fa551176b12::t_e5a9fdf1cde8ce 1849-1851
+model_prices_and_context_window.json
+  s_172fa551176b12::t_67aac59c8e2e73 44041-44058
+litellm/llms/openai_like/providers.json
+  s_172fa551176b12::t_c429bab6b07ee0 126-134
+litellm/constants.py
+  s_172fa551176b12::t_c9b633e1f88377 785
+  s_172fa551176b12::t_b5a9d311f403fd 718
+litellm/model_prices_and_context_window_backup.json
+  s_172fa551176b12::t_2d8af5f56c7c55 43653-43670
+tests/test_litellm/llms/openai_like/test_manifest_provider.py
+  s_172fa551176b12::t_83601da97f3487 1-118
+provider_endpoints_support.json
+  s_172fa551176b12::t_ca06e94139154b 2055-2071
+litellm/types/utils.py
+  s_172fa551176b12::t_1b6db28bd2d4c3 3371
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5525e1fc84c5d0d115853a465974d67b811cbdfa",
+  "prompts": {},
+  "sessions": {
+    "s_172fa551176b12": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a103a875-9d0f-41be-837c-392fd4654c61",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
